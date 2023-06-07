@@ -495,5 +495,9 @@
     .box-profile .wrap-profile .update-profile .tab-profile .form-profile .input input {
         width: 100%;
     }
+    
+    .box-profile .wrap-profile .update-profile .tab-profile .form-profile button {
+        font-size: 16px;
+    }
 
 }
