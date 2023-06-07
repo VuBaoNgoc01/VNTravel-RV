@@ -983,7 +983,8 @@ img {
     transition: all 0.25s linear;
 }
 
-.box-destination .wrap-destination .content-destination .post-destination:hover .post-info .post-react {
+.box-destination .wrap-destination .content-destination .post-destination:hover .post-info .post-react,
+.box-destination .wrap-destination .content-destination .post-destination:active .post-info .post-react{
     padding: 20px 20px;
     height: 100%;
     transform: rotateX(0deg);
