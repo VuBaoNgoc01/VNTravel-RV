@@ -1957,7 +1957,8 @@ img {
     .box-destination,
     .box-tour,
     .box-blog,
-    .box-partner {
+    .box-partner,
+    .box-profile{
         padding: 50px 0;
     }
 
